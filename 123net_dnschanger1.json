@@ -1,9 +1,9 @@
 {
   "start": {
-    "enabled": true,
-    "deeplink": "intent://details?id=xyz.salina.vpn#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dxyz.salina.vpn;end",
+    "enabled": false,
+    "deeplink": "intent://details?id=com.whatsapp#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.whatsapp;end",
     "url": ""
   },
-  "click": { "enabled": true, "deeplink": "intent://details?id=xyz.salina.vpn#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dxyz.salina.vpn;end", "url": "https://play.google.com/store/apps/details?id=xyz.salina.vpn" },
+  "click": { "enabled": false, "deeplink": "intent://details?id=com.whatsapp#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dxyz.salina.vpn;end", "url": "https://play.google.com/store/apps/details?id=com.whatsapp" },
   "exit":  { "enabled": false, "deeplink": "intent://details?id=com.whatsapp#Intent;scheme=market;package=com.android.vending;S.browser_fallback_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.whatsapp;end", "url": "" }
 }
